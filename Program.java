@@ -5,10 +5,7 @@ import daniel_grigoriev.interfaces.Examable;
 import java.io.*;
 import java.util.Scanner;
 
-/**
- * @author Daniel Grigoriev
- * @version 1.2
- */
+
 public class Program {
     public static Scanner sc = new Scanner(System.in);
     public static DataBase dataBase = new DataBase();
